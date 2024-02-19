@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "520318040181",
+    "project_id": "edicine-a0020",
+    "storage_bucket": "edicine-a0020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520318040181:android:708a03e61ab938048ea03c",
+        "android_client_info": {
+          "package_name": "com.nishantsirohi.edicine.edicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520318040181-regsitdlsjmu36ts44spjtu4quqvf2e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI450rNH8L52LZuxKQ_2MzvRzCg8ftxKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520318040181-regsitdlsjmu36ts44spjtu4quqvf2e9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520318040181-j5p0s2lskj95ss6f9vrhcf3kn7h8s11r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nishantsirohi.edicine.edicine"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
